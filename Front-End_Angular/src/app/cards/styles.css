@@ -1,0 +1,21 @@
+.backgroundCards {
+    background-color: black;
+}
+
+#card1 {
+    margin-top: 20px;
+    left: 337px;
+}
+
+.geral {
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.divFrameworks {
+    margin: 30px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
